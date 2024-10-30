@@ -1,0 +1,4 @@
+--입력과 반대로 출력(포인터) : 글자 순서도 거꾸로 --
+3 : gnimmargorP
+2 : C cisaB
+1 : koobkooc TI
